@@ -1,0 +1,10 @@
+{
+  "name": "Sinan ÖZER",
+  "roles": ["Elektronik Haberleşme Teknikeri", "Online Girişimci", "Web Geliştirici"],
+  "note": "Etkileşim, İletişimle Başlar.",
+  "links": [
+    {"title": "Hakkımda", "url": "/index1.html", "class": "glow-on-hover"},
+    {"title": "WhatsApp", "url": "https://wa.me/905300000000", "class": "whatsapp"},
+    {"title": "Twitter (X)", "url": "https://x.com/GuIen1Adam", "class": "twitter"}
+  ]
+}
